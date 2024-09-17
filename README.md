@@ -97,7 +97,7 @@ Then,
 * Include at least 4 entities, 4 relationships, and 3 constraints, in the same format as part 1 of this homework.
 * One of the entities should be **Post**.
 * For each entity, relationship and constraint, include a 1-2 sentence description that justifies your decision to include it and design it in the matter that you did.
-* 
+
 
 # Part 2
 
