@@ -3,7 +3,7 @@
 * Assigned: 9/5
 * Due:
     * Part 1: 9/11 11:59PM
-    * Part 2: TBA
+    * Part 2: 9/26 11:59PM
     * (Part 1 and Part 2 are due separately!)
 * Value: 3.75% of your grade
 * Done and submitted individually (as with all the homeworks) **via [Gradescope](https://www.gradescope.com)**
